@@ -8,3 +8,11 @@
   </samp>
 </p>
 
+<br>
+
+<p>
+  <samp>
+    <b>Find me at: </b>
+    [![Patryk's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/patrykjelonek_7)
+  </samp>
+</p>
