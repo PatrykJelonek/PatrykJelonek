@@ -13,6 +13,9 @@
 <p>
   <samp>
     <b>Find me at: </b>
-    [![Patryk's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/patrykjelonek_7)
+    <br>
+      <a href="https://dev.to/patrykjelonek_7">
+        <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" alt="Patryk's DEV Profile" width="32" height="32">
+      </a>
   </samp>
 </p>
