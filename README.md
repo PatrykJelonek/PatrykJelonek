@@ -4,6 +4,7 @@
     <br><br><br>
     <img src="https://media4.giphy.com/media/Z9QLIMdHplOlQzg8Py/giphy.gif" width='200px'>
     <br>
+    <br>
     <b>Find me</b> at:
     <br>
       <a href="https://dev.to/patrykjelonek_7">
