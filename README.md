@@ -8,11 +8,9 @@
   </samp>
 </p>
 
-<br>
-
-<p>
+<p align='center'>
   <samp>
-    <b>Find me at: </b>
+    <b>FIND ME AT: </b>
     <br>
       <a href="https://dev.to/patrykjelonek_7">
         <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" alt="Patryk's DEV Profile" width="32" height="32">
